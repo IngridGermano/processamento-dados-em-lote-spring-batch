@@ -19,6 +19,7 @@ import org.springframework.core.task.SimpleAsyncTaskExecutor;
 import org.springframework.core.task.TaskExecutor;
 
 import lombok.AllArgsConstructor;
+import next.cesar.school.Spring_funcionarios.FuncionarioProcessParam;
 import next.cesar.school.Spring_funcionarios.entity.Funcionario;
 import next.cesar.school.Spring_funcionarios.repo.FuncionarioRepository;
 
@@ -39,7 +40,7 @@ public class SpringBatchConfig {
 	@Bean
 	public FlatFileItemReader<Funcionario> funcionarioReader() {
 		FlatFileItemReader<Funcionario> itemReader = new FlatFileItemReader<>();
-		itemReader.setResource(new FileSystemResource("src/main/resources/funcionarios.csv"));
+		itemReader.setResource(new FileSystemResource(FuncionarioProcessParam.arquivoCsv));
 		itemReader.setName("csv-reader");
 		itemReader.setLinesToSkip(1);
 		itemReader.setLineMapper(lineMapper());
