@@ -25,8 +25,41 @@ public class Funcionario {
 	private long ano;
 	@Column(name = "Funcao_do_Funcionario")
 	private String funcao;
-	
-		
+	public Funcionario(String id, String salario, long ano, String funcao) {
+		super();
+		this.id = id;
+		this.salario = salario;
+		this.ano = ano;
+		this.funcao = funcao;
+	}
+	public Funcionario() {
+		super();
+	}
+	public String getId() {
+		return id;
+	}
+	public void setId(String id) {
+		this.id = id;
+	}
+	public String getSalario() {
+		return salario;
+	}
+	public void setSalario(String salario) {
+		this.salario = salario;
+	}
+	public long getAno() {
+		return ano;
+	}
+	public void setAno(long ano) {
+		this.ano = ano;
+	}
+	public String getFuncao() {
+		return funcao;
+	}
+	public void setFuncao(String funcao) {
+		this.funcao = funcao;
+	}
+
 	
 
 }
