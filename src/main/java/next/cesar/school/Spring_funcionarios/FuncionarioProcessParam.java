@@ -6,6 +6,14 @@ public class FuncionarioProcessParam {
 	private String[] params;
 			
 	public FuncionarioProcessParam(String[] params) {
+		this.setParams(params);
+	}
+
+	public String[] getParams() {
+		return params;
+	}
+
+	public void setParams(String[] params) {
 		this.params = params;
 	}
 
