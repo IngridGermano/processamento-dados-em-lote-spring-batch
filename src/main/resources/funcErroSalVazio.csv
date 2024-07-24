@@ -1,0 +1,976 @@
+Nome,Salário,Ano de Admissão,Função do Funcionário
+Ana Sophia Araújo,4.926.07,2021,Analista de Qualidade
+Elisa das Neves,4.926.07,2020,Técnico de Manutenção
+Vicente Cavalcanti,4.199.95,2021,Supervisor de Linha de Montagem
+Sarah Viana,3.702.23,2021,Técnico de Manutenção
+Nicolas Pereira,4.439.82,2022,Técnico de Manutenção
+Antônio Carvalho,1.772.74,2023,Operador de Produção
+Enzo Santos,7.216.97,2023,Engenheiro Mecânico
+Alice da Paz,3.534.59,2021,Analista de Qualidade
+Pietra Viana,4.799.72,2022,Supervisor de Linha de Montagem
+Clarice Porto,4.049.54,2021,Analista de Qualidade
+Emilly Almeida,4.271.35,2019,Analista de Qualidade
+Samuel Pereira,5.719.88,2023,Supervisor de Linha de Montagem
+Davi Lucas da Rosa,6.260.21,2022,Engenheiro Mecânico
+Bryan Nascimento,9.862.53,2020,Engenheiro Mecânico
+João Gabriel Monteiro,1.956.92,2023,Operador de Produção
+Emanuella Barbosa,2.526.35,2022,Operador de Produção
+Maria Alice Costa,4.242.77,2021,Analista de Qualidade
+Ana Júlia Vieira,7.035.12,2022,Engenheiro Mecânico
+Pedro Lucas Moreira,2.137.73,2020,Operador de Produção
+Caroline Campos,3.777.28,2020,Analista de Qualidade
+Rafael Dias,2.174.63,2020,Operador de Produção
+Bruno Dias,4.396.85,2022,Analista de Qualidade
+João Miguel Freitas,9.844.69,2023,Engenheiro Mecânico
+Maysa Moreira,3.042.70,2023,Técnico de Manutenção
+João Lucas Moraes,2.947.88,2022,Operador de Produção
+Raul Fogaça,3.914.00,2023,Analista de Qualidade
+Melissa Cardoso,2.649.10,2019,Técnico de Manutenção
+Maysa da Cunha,6.794.86,2021,Engenheiro Mecânico
+Sabrina Farias,5.413.71,2021,Supervisor de Linha de Montagem
+Lucas Gabriel Nascimento,5.542.54,2023,Supervisor de Linha de Montagem
+Pedro Miguel das Neves,2.037.70,2019,Operador de Produção
+Giovanna Caldeira,4.794.66,2022,Analista de Qualidade
+Arthur Lopes,1.643.12,2023,Operador de Produção
+Emanuelly Campos,5.182.60,2021,Supervisor de Linha de Montagem
+Miguel Lopes,4.944.43,2023,Supervisor de Linha de Montagem
+Pietro Sales,5.521.57,2020,Supervisor de Linha de Montagem
+Melissa Ramos,5.045.47,2020,Supervisor de Linha de Montagem
+Francisco Cunha,2.159.00,2021,Operador de Produção
+Vinicius Teixeira,7.257.42,2022,Engenheiro Mecânico
+Vinicius Pereira,2.998.58,2023,Técnico de Manutenção
+Juliana Moreira,4.406.12,2023,Supervisor de Linha de Montagem
+Daniel Silva,5.389.57,2022,Supervisor de Linha de Montagem
+Ana Laura Barros,2.436.53,2019,Operador de Produção
+Davi Lucas da Cruz,4.242.92,2022,Técnico de Manutenção
+Lara Campos,3.779.86,2021,Analista de Qualidade
+Isis Rezende,1.683.13,2019,Operador de Produção
+Eloah Vieira,7.088.53,2021,Engenheiro Mecânico
+Rodrigo Correia,9.272.06,2019,Engenheiro Mecânico
+Maria Alice Fogaça,4.013.90,2021,Supervisor de Linha de Montagem
+Heloísa Correia,7.939.32,2019,Engenheiro Mecânico
+Leandro da Cruz,4.538.82,2021,Supervisor de Linha de Montagem
+Agatha Ferreira,7.615.34,2019,Engenheiro Mecânico
+Sophie da Luz,2.943.67,2020,Operador de Produção
+Ana Lívia Jesus,4.601.76,2019,Supervisor de Linha de Montagem
+Lívia da Paz,7.067.12,2020,Engenheiro Mecânico
+João Lucas da Cruz,2.116.56,2023,Operador de Produção
+Stephany Souza,8.537.41,2020,Engenheiro Mecânico
+Noah Martins,3.478.91,2022,Técnico de Manutenção
+Alexia Correia,4.739.31,2019,Supervisor de Linha de Montagem
+Erick Caldeira,3.764.61,2021,Técnico de Manutenção
+Miguel Cardoso,6.602.87,2021,Engenheiro Mecânico
+Thomas Rodrigues,4.216.72,2022,Técnico de Manutenção
+Vitor Hugo Teixeira,4.440.48,2020,Supervisor de Linha de Montagem
+Cauê Ribeiro,5.619.00,2022,Supervisor de Linha de Montagem
+Bárbara Ferreira,4.910.78,2020,Analista de Qualidade
+Maria Pereira,8.702.76,2019,Engenheiro Mecânico
+Marcelo da Paz,6.836.29,2020,Engenheiro Mecânico
+Juliana Moura,4.457.10,2020,Supervisor de Linha de Montagem
+Manuela Porto,8.066.54,2019,Engenheiro Mecânico
+Felipe das Neves,2.994.38,2022,Operador de Produção
+Joaquim Aragão,4.300.84,2021,Técnico de Manutenção
+Maria Clara Dias,7.115.49,2021,Engenheiro Mecânico
+Clarice Almeida,5.712.65,2019,Supervisor de Linha de Montagem
+Thales Caldeira,3.626.21,2022,Analista de Qualidade
+Bernardo Azevedo,4.371.03,2019,Analista de Qualidade
+Luiz Gustavo Duarte,5.947.33,2020,Supervisor de Linha de Montagem
+Raul Rodrigues,2.228.42,2021,Operador de Produção
+Marcelo Costela,2.948.54,2019,Técnico de Manutenção
+Maria Julia Ribeiro,3.855.87,2023,Analista de Qualidade
+Yuri Ribeiro,4.049.70,2021,Analista de Qualidade
+Caroline Castro,7.232.24,2022,Engenheiro Mecânico
+Rafael Pinto,4.735.43,2023,Supervisor de Linha de Montagem
+Juan Rezende,5.784.09,2021,Supervisor de Linha de Montagem
+Nicole Castro,5.589.62,2019,Supervisor de Linha de Montagem
+João Mendes,4.503.39,2019,Analista de Qualidade
+Felipe da Mota,2.960.37,2021,Técnico de Manutenção
+Luiz Otávio Porto,3.536.47,2019,Analista de Qualidade
+Kevin da Mata,9.978.20,2023,Engenheiro Mecânico
+Lucas Gabriel Farias,4.266.99,2022,Técnico de Manutenção
+Leonardo Vieira,9.812.29,2023,Engenheiro Mecânico
+Benjamin Viana,8.211.06,2021,Engenheiro Mecânico
+Bryan Duarte,4.779.51,2023,Analista de Qualidade
+Juan Rodrigues,2.881.82,2019,Técnico de Manutenção
+Clara Nunes,4.338.99,2019,Supervisor de Linha de Montagem
+Davi Luiz Nascimento,2.904.23,2020,Operador de Produção
+João Pedro Ferreira,5.140.12,2020,Supervisor de Linha de Montagem
+Esther Pereira,1.881.25,2020,Operador de Produção
+Valentina Rodrigues,1.983.83,2019,Operador de Produção
+Diogo Gonçalves,8.809.94,2023,Engenheiro Mecânico
+Benício Viana,2.714.04,2021,Operador de Produção
+Vinicius Lopes,2.800.61,2023,Operador de Produção
+Benjamin Rocha,4.267.01,2019,Analista de Qualidade
+Marcela da Cruz,4.697.44,2019,Analista de Qualidade
+Luiz Gustavo Cardoso,4.829.93,2022,Analista de Qualidade
+Bernardo Campos,1.640.97,2021,Operador de Produção
+Eduarda Nunes,6.620.17,2023,Engenheiro Mecânico
+Miguel Farias,2.790.61,2019,Operador de Produção
+Maria Vitória Barbosa,3.558.25,2021,Analista de Qualidade
+Ana Júlia Peixoto,3.989.98,2023,Analista de Qualidade
+Maria Luiza Silveira,3.823.73,2023,Analista de Qualidade
+Emanuel Lopes,4.763.03,2022,Analista de Qualidade
+Francisco Novaes,5.274.86,2022,Supervisor de Linha de Montagem
+Raul Jesus,4.439.07,2020,Técnico de Manutenção
+Gabrielly Cardoso,5.590.37,2021,Supervisor de Linha de Montagem
+Lorenzo Castro,4.616.06,2020,Analista de Qualidade
+Luiz Otávio da Rosa,2.868.67,2019,Técnico de Manutenção
+Emanuella Costela,4.113.43,2020,Analista de Qualidade
+Felipe Moura,1.734.66,2020,Operador de Produção
+Davi Lucca Pires,8.640.79,2023,Engenheiro Mecânico
+Rafaela Jesus,9.819.46,2023,Engenheiro Mecânico
+Milena Souza,3.339.20,2022,Técnico de Manutenção
+Raul Vieira,2.033.96,2023,Operador de Produção
+Rafael Cavalcanti,7.367.52,2022,Engenheiro Mecânico
+Francisco Correia,2.688.31,2022,Técnico de Manutenção
+Vinicius Vieira,3.448.35,2020,Técnico de Manutenção
+Gabriel Gomes,2.237.42,2022,Operador de Produção
+Cecília Mendes,7.858.70,2023,Engenheiro Mecânico
+Rodrigo Ferreira,2.423.78,2023,Operador de Produção
+Luiza Fernandes,3.567.96,2020,Analista de Qualidade
+Bryan Pereira,2.900.15,2019,Operador de Produção
+Augusto Almeida,3.867.93,2020,Técnico de Manutenção
+Pedro Miguel Ferreira,9.468.80,2021,Engenheiro Mecânico
+Vicente Pires,4.363.21,2020,Analista de Qualidade
+Rafaela Pereira,5.286.58,2019,Supervisor de Linha de Montagem
+Alana Correia,3.591.23,2023,Técnico de Manutenção
+Ryan da Costa,4.079.15,2019,Analista de Qualidade
+Alícia Moura,1.810.03,2023,Operador de Produção
+Maria Clara da Conceição,2.929.18,2020,Técnico de Manutenção
+Ana Barbosa,2.688.89,2021,Técnico de Manutenção
+João Guilherme Barbosa,8.622.89,2023,Engenheiro Mecânico
+Rodrigo Farias,2.522.42,2020,Operador de Produção
+Ana Lívia Moraes,4.563.71,2022,Supervisor de Linha de Montagem
+Júlia da Costa,2.545.11,2023,Operador de Produção
+Davi Lucca da Luz,5.754.94,2022,Supervisor de Linha de Montagem
+Alice da Luz,9.213.92,2019,Engenheiro Mecânico
+Valentina Oliveira,3.766.16,2019,Analista de Qualidade
+Sarah Farias,5.981.01,2022,Supervisor de Linha de Montagem
+Davi Lucca Cavalcanti,1.875.02,2023,Operador de Produção
+Alícia Ribeiro,4.143.49,2023,Analista de Qualidade
+Eduardo Ramos,6.952.94,2019,Engenheiro Mecânico
+Enzo das Neves,8.021.01,2019,Engenheiro Mecânico
+Rafael da Mota,4.291.05,2019,Técnico de Manutenção
+Helena Freitas,3.516.26,2019,Analista de Qualidade
+Vitor Freitas,4.182.57,2022,Supervisor de Linha de Montagem
+Renan Teixeira,4.360.16,2023,Analista de Qualidade
+Carlos Eduardo Ferreira,3.086.42,2019,Técnico de Manutenção
+Nathan Ferreira,4.508.78,2022,Analista de Qualidade
+Calebe Pinto,4.083.16,2019,Técnico de Manutenção
+Leandro Silva,4.361.86,2020,Técnico de Manutenção
+João Pedro da Mota,2.162.30,2023,Operador de Produção
+Augusto Pinto,5.411.66,2022,Supervisor de Linha de Montagem
+Luiz Henrique Teixeira,9.046.04,2022,Engenheiro Mecânico
+Rebeca da Paz,6.404.49,2023,Engenheiro Mecânico
+Bernardo Melo,2.094.98,2021,Operador de Produção
+Gabrielly Costa,1.719.91,2023,Operador de Produção
+Lívia Lima,2.966.46,2023,Técnico de Manutenção
+Júlia Martins,9.521.44,2019,Engenheiro Mecânico
+Pietra Gonçalves,8.367.55,2022,Engenheiro Mecânico
+Ana da Mota,3.625.25,2023,Analista de Qualidade
+Natália Nascimento,4.337.61,2021,Analista de Qualidade
+Sofia da Luz,2.859.53,2021,Operador de Produção
+Maria Fernanda Jesus,2.522.71,2022,Técnico de Manutenção
+Maria Clara Almeida,2.611.46,2023,Operador de Produção
+Gustavo Henrique da Rocha,8.976.85,2021,Engenheiro Mecânico
+Valentina Martins,2.975.01,2019,Técnico de Manutenção
+Laura Pires,3.928.57,2019,Analista de Qualidade
+Clara Silva,4.426.45,2022,Técnico de Manutenção
+Vitória da Cunha,4.439.76,2023,Técnico de Manutenção
+Ana Júlia Gomes,2.586.80,2023,Técnico de Manutenção
+Mirella Melo,5.838.23,2022,Supervisor de Linha de Montagem
+Vitor Gabriel Duarte,5.390.82,2019,Supervisor de Linha de Montagem
+Gabriela das Neves,1.749.32,2019,Operador de Produção
+Danilo Araújo,8.510.23,2021,Engenheiro Mecânico
+Felipe Ribeiro,9.661.02,2020,Engenheiro Mecânico
+Stella Cardoso,3.660.13,2023,Analista de Qualidade
+Kamilly da Mota,1.782.18,2020,Operador de Produção
+Joana Sales,1.844.09,2022,Operador de Produção
+Elisa da Conceição,4.040.52,2022,Analista de Qualidade
+Olivia Almeida,5.396.32,2019,Supervisor de Linha de Montagem
+Yago Pereira,7.238.11,2022,Engenheiro Mecânico
+Davi Silveira,3.869.46,2023,Técnico de Manutenção
+Ana Beatriz Farias,4.321.85,2023,Técnico de Manutenção
+Lorenzo Cunha,2.124.96,2023,Operador de Produção
+Natália Souza,7.672.97,2020,Engenheiro Mecânico
+Maria Vitória Lopes,4.090.44,2019,Supervisor de Linha de Montagem
+Mariana Santos,7.921.48,2019,Engenheiro Mecânico
+Maria Clara Porto,5.188.26,2019,Supervisor de Linha de Montagem
+Vinicius Ribeiro,5.684.24,2023,Supervisor de Linha de Montagem
+Emanuella Farias,7.874.77,2021,Engenheiro Mecânico
+Emilly Silveira,6.054.69,2022,Engenheiro Mecânico
+Marina Duarte,8.137.39,2023,Engenheiro Mecânico
+Leonardo Cardoso,5.110.86,2023,Supervisor de Linha de Montagem
+Eduarda Fogaça,4.389.53,2020,Técnico de Manutenção
+Marcelo Cardoso,4.494.70,2019,Supervisor de Linha de Montagem
+Davi Lucas Dias,9.816.20,2023,Engenheiro Mecânico
+Olivia da Costa,3.842.96,2019,Analista de Qualidade
+Ana Clara Peixoto,2.037.24,2020,Operador de Produção
+Helena Viana,2.280.46,2021,Operador de Produção
+Kamilly Caldeira,4.615.55,2019,Supervisor de Linha de Montagem
+Kaique Nogueira,4.341.41,2021,Analista de Qualidade
+Pietra Aragão,8.359.82,2023,Engenheiro Mecânico
+Isis Rocha,3.778.72,2021,Técnico de Manutenção
+João Gabriel Jesus,5.806.30,2022,Supervisor de Linha de Montagem
+Kamilly Teixeira,2.025.88,2020,Operador de Produção
+Maria Cecília das Neves,2.088.37,2021,Operador de Produção
+Clarice Fogaça,5.808.32,2022,Supervisor de Linha de Montagem
+Luiza Araújo,8.055.96,2022,Engenheiro Mecânico
+Heloísa Nunes,2.793.55,2023,Operador de Produção
+Letícia Costela,2.794.15,2019,Técnico de Manutenção
+Maria Alice Araújo,2.653.38,2022,Operador de Produção
+Maria Sophia Araújo,4.460.07,2023,Técnico de Manutenção
+Pedro Pereira,1.993.13,2021,Operador de Produção
+Lucas Gabriel da Mata,4.480.29,2021,Supervisor de Linha de Montagem
+Francisco Nascimento,7.840.48,2021,Engenheiro Mecânico
+Lorenzo Martins,3.772.82,2019,Analista de Qualidade
+Guilherme Peixoto,5.748.64,2021,Supervisor de Linha de Montagem
+Bruno Ribeiro,4.446.22,2023,Técnico de Manutenção
+Vinicius Viana,1.835.77,2023,Operador de Produção
+João Felipe das Neves,3.190.17,2020,Técnico de Manutenção
+Ana Clara Barbosa,2.563.61,2019,Técnico de Manutenção
+Felipe da Paz,3.421.56,2020,Técnico de Manutenção
+Pedro Henrique da Costa,1.693.12,2020,Operador de Produção
+Ana Sophia da Rosa,7.924.58,2021,Engenheiro Mecânico
+Pietra Fernandes,2.505.19,2022,Técnico de Manutenção
+Otávio Correia,6.338.07,2021,Engenheiro Mecânico
+Henrique Cavalcanti,4.472.51,2020,Técnico de Manutenção
+Alice Lima,4.053.37,2020,Analista de Qualidade
+Nicole Nascimento,2.624.68,2021,Técnico de Manutenção
+Raquel da Paz,5.426.70,2021,Supervisor de Linha de Montagem
+Nicolas Farias,3.660.76,2020,Analista de Qualidade
+Samuel Jesus,4.794.33,2019,Supervisor de Linha de Montagem
+Maria Vitória Costa,2.864.57,2019,Técnico de Manutenção
+Valentina Barbosa,6.845.79,2020,Engenheiro Mecânico
+Rafael Moura,3.849.82,2023,Analista de Qualidade
+Luiz Fernando Mendes,4.210.95,2020,Analista de Qualidade
+Kaique Rodrigues,5.297.65,2020,Supervisor de Linha de Montagem
+Leandro Moreira,4.305.66,2020,Analista de Qualidade
+Laís da Costa,8.257.83,2020,Engenheiro Mecânico
+Camila Silveira,7.349.79,2022,Engenheiro Mecânico
+Emanuelly Teixeira,2.411.33,2021,Operador de Produção
+Letícia Pinto,5.973.03,2023,Supervisor de Linha de Montagem
+Emanuelly Martins,6.948.91,2023,Engenheiro Mecânico
+Bryan Freitas,4.776.23,2019,Analista de Qualidade
+Elisa Rezende,5.049.02,2023,Supervisor de Linha de Montagem
+Mariana Nascimento,4.995.88,2020,Analista de Qualidade
+Luiz Felipe Martins,4.954.21,2022,Analista de Qualidade
+Luigi da Rosa,7.963.00,2021,Engenheiro Mecânico
+Joaquim Freitas,8.873.83,2021,Engenheiro Mecânico
+Pietra Freitas,1.919.97,2022,Operador de Produção
+Alana Silveira,2.874.09,2022,Técnico de Manutenção
+Bruno Duarte,4.399.01,2022,Supervisor de Linha de Montagem
+Luiza Duarte,8.119.36,2019,Engenheiro Mecânico
+Melissa Rodrigues,2.651.67,2023,Operador de Produção
+Vitória Aragão,5.864.03,2023,Supervisor de Linha de Montagem
+Gustavo das Neves,5.187.77,2020,Supervisor de Linha de Montagem
+Olivia Farias,2.322.90,2020,Operador de Produção
+Maria Clara Souza,3.881.96,2023,Analista de Qualidade
+Samuel Ramos,4.697.74,2019,Supervisor de Linha de Montagem
+Henrique Fernandes,4.161.24,2022,Técnico de Manutenção
+Cauã da Mota,1.686.45,2021,Operador de Produção
+Caroline da Rosa,5.852.90,2022,Supervisor de Linha de Montagem
+Emilly Souza,2.779.54,2019,Técnico de Manutenção
+Esther Castro,2.903.25,2021,Técnico de Manutenção
+Gustavo Dias,2.872.81,2021,Técnico de Manutenção
+Heitor Alves,5.267.52,2022,Supervisor de Linha de Montagem
+Ana Freitas,9.508.80,2019,Engenheiro Mecânico
+Benjamin Vieira,2.724.90,2021,Operador de Produção
+Samuel Costela,3.102.76,2019,Técnico de Manutenção
+Sophia Rodrigues,7.421.45,2020,Engenheiro Mecânico
+André Gomes,4.312.94,2021,Técnico de Manutenção
+Luana Pires,4.863.06,2021,Supervisor de Linha de Montagem
+Benjamin Fernandes,4.669.81,2022,Supervisor de Linha de Montagem
+Ana Sophia Campos,3.490.85,2021,Técnico de Manutenção
+Luiza Cardoso,4.996.54,2019,Analista de Qualidade
+Marina Barros,8.827.92,2021,Engenheiro Mecânico
+Davi Lucas Jesus,6.134.13,2020,Engenheiro Mecânico
+Felipe Costa,2.240.97,2020,Operador de Produção
+Sophie Peixoto,6.411.66,2023,Engenheiro Mecânico
+Maria Vitória das Neves,4.185.50,2022,Analista de Qualidade
+Isis Porto,3.579.72,2023,Técnico de Manutenção
+Fernanda Pereira,4.583.38,2020,Analista de Qualidade
+Miguel Caldeira,5.282.30,2021,Supervisor de Linha de Montagem
+Sarah Castro,4.314.09,2021,Analista de Qualidade
+Pedro Lucas da Rosa,4.691.39,2021,Supervisor de Linha de Montagem
+Rafael Cardoso,2.013.79,2020,Operador de Produção
+Erick da Luz,4.306.70,2023,Supervisor de Linha de Montagem
+Ana Julia da Cruz,2.417.18,2022,Operador de Produção
+Juan Porto,5.864.24,2022,Supervisor de Linha de Montagem
+Lorena Gonçalves,4.685.13,2023,Analista de Qualidade
+Enzo Gomes,2.656.87,2020,Operador de Produção
+Pietra Ramos,7.696.52,2023,Engenheiro Mecânico
+Rodrigo Dias,9.702.27,2019,Engenheiro Mecânico
+Yuri da Paz,4.469.68,2022,Técnico de Manutenção
+Ana Sophia Viana,7.328.59,2021,Engenheiro Mecânico
+Pedro da Costa,3.258.61,2023,Técnico de Manutenção
+Danilo Cardoso,6.822.32,2019,Engenheiro Mecânico
+Davi Luiz Lima,3.707.44,2021,Técnico de Manutenção
+Sofia Gomes,4.306.09,2021,Analista de Qualidade
+Ana Vitória Rezende,2.198.55,2021,Operador de Produção
+Pietra Nunes,2.877.68,2021,Operador de Produção
+Luiz Fernando Viana,4.904.88,2021,Supervisor de Linha de Montagem
+Laura Cardoso,7.993.47,2023,Engenheiro Mecânico
+Amanda Pinto,7.449.58,2021,Engenheiro Mecânico
+Maria Fernandes,1.519.64,2023,Operador de Produção
+Bryan Dias,6.712.14,2022,Engenheiro Mecânico
+Maria Julia Aragão,6.594.65,2022,Engenheiro Mecânico
+Emanuelly Barbosa,2.868.93,2019,Técnico de Manutenção
+Lucas Silveira,3.294.64,2021,Técnico de Manutenção
+Laura Freitas,5.599.56,2023,Supervisor de Linha de Montagem
+Nathan Pinto,6.146.20,2021,Engenheiro Mecânico
+Luiza Carvalho,1.941.07,2021,Operador de Produção
+Isabel Oliveira,2.286.59,2022,Operador de Produção
+Raul Cavalcanti,7.603.05,2021,Engenheiro Mecânico
+Isaac Oliveira,3.772.89,2023,Analista de Qualidade
+Esther Nunes,4.746.62,2020,Supervisor de Linha de Montagem
+Alícia Ramos,5.288.00,2022,Supervisor de Linha de Montagem
+Ian Fernandes,6.101.55,2022,Engenheiro Mecânico
+Vitor Nunes,2.800.49,2019,Operador de Produção
+Agatha Viana,6.887.89,2021,Engenheiro Mecânico
+Júlia Barros,3.690.10,2019,Técnico de Manutenção
+Luiz Henrique Moreira,2.857.09,2019,Técnico de Manutenção
+Sophia Sales,3.857.27,2020,Analista de Qualidade
+Laura Barros,4.486.34,2021,Supervisor de Linha de Montagem
+Gabriel Vieira,4.916.61,2023,Analista de Qualidade
+Gustavo Henrique Pires,1.519.50,2019,Operador de Produção
+Ana Vitória Araújo,2.553.06,2023,Técnico de Manutenção
+Maria Duarte,5.166.08,2022,Supervisor de Linha de Montagem
+Gabriela Vieira,2.839.01,2023,Operador de Produção
+Marcos Vinicius Oliveira,4.003.80,2020,Analista de Qualidade
+Enzo Gabriel Correia,5.180.59,2022,Supervisor de Linha de Montagem
+Ana Vitória da Costa,4.436.22,2019,Analista de Qualidade
+Raquel Gonçalves,2.791.60,2021,Operador de Produção
+Rafaela Fogaça,4.961.82,2022,Analista de Qualidade
+Luana Ribeiro,9.473.87,2021,Engenheiro Mecânico
+Lorenzo Vieira,7.939.11,2019,Engenheiro Mecânico
+Maitê Cunha,7.031.55,2021,Engenheiro Mecânico
+Alexandre Gomes,3.882.44,2023,Técnico de Manutenção
+Maria Sophia Rodrigues,5.645.17,2023,Supervisor de Linha de Montagem
+Levi Teixeira,2.364.77,2020,Operador de Produção
+Isabel Melo,7.620.99,2020,Engenheiro Mecânico
+Sophie Viana,3.809.63,2020,Analista de Qualidade
+Laís Martins,3.027.37,2021,Técnico de Manutenção
+Samuel Duarte,2.400.78,2019,Operador de Produção
+Joana Dias,2.850.74,2023,Técnico de Manutenção
+Amanda Lopes,7.675.08,2022,Engenheiro Mecânico
+Rafaela Nascimento,2.133.05,2020,Operador de Produção
+Mirella da Costa,4.937.94,2019,Analista de Qualidade
+Alícia Costela,4.180.67,2021,Supervisor de Linha de Montagem
+Maria Sophia Melo,1.602.37,2021,Operador de Produção
+Leonardo Castro,4.711.35,2019,Supervisor de Linha de Montagem
+Laís Alves,4.594.24,2021,Supervisor de Linha de Montagem
+Lucas Ferreira,7.079.64,2022,Engenheiro Mecânico
+Pietro Cardoso,5.190.16,2021,Supervisor de Linha de Montagem
+Ian Rodrigues,7.985.46,2023,Engenheiro Mecânico
+Alícia Campos,4.668.49,2020,Supervisor de Linha de Montagem
+Pedro Lucas Gomes,1.659.90,2019,Operador de Produção
+Vinicius Carvalho,7.651.17,2023,Engenheiro Mecânico
+Ana Luiza Castro,5.196.57,2019,Supervisor de Linha de Montagem
+Bárbara Jesus,5.638.20,2023,Supervisor de Linha de Montagem
+Augusto Martins,4.542.04,2020,Analista de Qualidade
+Gustavo Moraes,4.041.46,2022,Analista de Qualidade
+Danilo Farias,5.834.63,2023,Supervisor de Linha de Montagem
+Júlia da Mata,9.800.95,2019,Engenheiro Mecânico
+Davi Cardoso,4.312.85,2021,Analista de Qualidade
+Isis Duarte,4.018.07,2023,Técnico de Manutenção
+Maria Luiza da Conceição,9.613.46,2022,Engenheiro Mecânico
+Lucas Gabriel Fernandes,5.975.34,2023,Supervisor de Linha de Montagem
+Eloah Alves,1.559.14,2020,Operador de Produção
+Esther Viana,6.722.30,2023,Engenheiro Mecânico
+Breno Pires,1.969.28,2023,Operador de Produção
+Pedro Miguel Pereira,6.770.40,2020,Engenheiro Mecânico
+Laís Jesus,5.888.53,2020,Supervisor de Linha de Montagem
+João Pedro Rocha,4.766.82,2020,Analista de Qualidade
+Erick Nascimento,5.657.83,2019,Supervisor de Linha de Montagem
+Isabella Gonçalves,5.121.35,2023,Supervisor de Linha de Montagem
+Alexia Novaes,2.827.50,2021,Operador de Produção
+André Barros,2.587.15,2022,Operador de Produção
+Sofia Sales,8.153.61,2019,Engenheiro Mecânico
+Yago Dias,3.751.78,2023,Técnico de Manutenção
+Yasmin Moraes,2.815.00,2020,Operador de Produção
+Pedro Miguel da Mota,5.740.20,2021,Supervisor de Linha de Montagem
+Eloah Cunha,3.557.87,2021,Técnico de Manutenção
+Ana Luiza Barbosa,5.995.87,2022,Supervisor de Linha de Montagem
+Yuri Pires,4.034.38,2023,Técnico de Manutenção
+Nathan Moreira,3.459.56,2022,Técnico de Manutenção
+Ana Laura Gonçalves,9.073.09,2019,Engenheiro Mecânico
+Davi da Paz,4.606.37,2019,Analista de Qualidade
+Yuri Viana,4.934.62,2020,Supervisor de Linha de Montagem
+Davi Luiz Fernandes,4.573.33,2023,Analista de Qualidade
+Evelyn Mendes,7.109.06,2023,Engenheiro Mecânico
+Lucas Gabriel Cardoso,6.437.87,2019,Engenheiro Mecânico
+Vitor Gabriel das Neves,3.827.38,2020,Analista de Qualidade
+Rebeca Novaes,4.072.69,2021,Técnico de Manutenção
+Isabelly Carvalho,4.126.37,2021,Analista de Qualidade
+Alana Ferreira,4.478.37,2022,Técnico de Manutenção
+Ana Vitória Ramos,3.847.51,2022,Analista de Qualidade
+Nathan Nascimento,3.799.29,2023,Técnico de Manutenção
+Isadora Cavalcanti,5.025.38,2020,Supervisor de Linha de Montagem
+Daniela Ribeiro,4.353.06,2020,Supervisor de Linha de Montagem
+Pedro Henrique Martins,6.745.75,2021,Engenheiro Mecânico
+Clarice Campos,2.615.69,2019,Técnico de Manutenção
+Letícia Jesus,9.711.01,2020,Engenheiro Mecânico
+Júlia Correia,6.695.58,2020,Engenheiro Mecânico
+Augusto Azevedo,5.516.48,2019,Supervisor de Linha de Montagem
+Luiz Felipe Correia,5.631.67,2023,Supervisor de Linha de Montagem
+Erick Teixeira,3.573.95,2019,Técnico de Manutenção
+João Pedro Ramos,4.370.13,2020,Analista de Qualidade
+Nicolas da Costa,5.754.92,2021,Supervisor de Linha de Montagem
+Milena Castro,4.259.03,2019,Supervisor de Linha de Montagem
+Mariana Oliveira,5.911.30,2022,Supervisor de Linha de Montagem
+Arthur Moura,2.714.27,2019,Operador de Produção
+Leonardo Pires,3.970.43,2020,Técnico de Manutenção
+João Guilherme Castro,4.059.03,2021,Analista de Qualidade
+Isadora Viana,2.597.57,2020,Técnico de Manutenção
+Isabella Caldeira,2.940.37,2023,Técnico de Manutenção
+Emilly da Mota,3.614.20,2019,Analista de Qualidade
+Lorenzo Carvalho,2.242.72,2023,Operador de Produção
+Clara Aragão,5.649.36,2020,Supervisor de Linha de Montagem
+Yuri Melo,5.728.99,2019,Supervisor de Linha de Montagem
+Cauê da Rocha,5.736.32,2022,Supervisor de Linha de Montagem
+Vitor Hugo Vieira,6.629.36,2019,Engenheiro Mecânico
+Nicolas da Rosa,4.174.03,2019,Técnico de Manutenção
+Isaac da Conceição,3.860.28,2021,Técnico de Manutenção
+Agatha Freitas,3.737.91,2021,Analista de Qualidade
+Cauê Viana,4.243.69,2021,Técnico de Manutenção
+Davi Correia,1.693.30,2021,Operador de Produção
+Alice Costela,3.987.02,2020,Técnico de Manutenção
+João Gabriel Duarte,4.334.27,2023,Analista de Qualidade
+Giovanna Aragão,3.017.38,2020,Técnico de Manutenção
+Francisco Barros,3.733.85,2019,Técnico de Manutenção
+Vicente Peixoto,8.527.25,2020,Engenheiro Mecânico
+Lavínia Moreira,4.256.90,2021,Supervisor de Linha de Montagem
+Maria Sophia Cavalcanti,2.148.36,2020,Operador de Produção
+Lívia das Neves,4.448.93,2023,Analista de Qualidade
+Amanda Silveira,4.077.61,2022,Técnico de Manutenção
+Lorenzo Araújo,3.601.76,2021,Analista de Qualidade
+Lucca Nunes,9.083.94,2019,Engenheiro Mecânico
+Nina Cavalcanti,2.210.36,2020,Operador de Produção
+Raquel Pires,5.704.83,2023,Supervisor de Linha de Montagem
+Bruno Martins,4.624.48,2021,Analista de Qualidade
+Bianca Campos,4.637.39,2023,Analista de Qualidade
+Guilherme Vieira,5.643.03,2021,Supervisor de Linha de Montagem
+Isis Souza,5.366.59,2020,Supervisor de Linha de Montagem
+Lorenzo Santos,1.910.44,2023,Operador de Produção
+Larissa Castro,4.139.27,2023,Analista de Qualidade
+Milena Vieira,6.654.50,2023,Engenheiro Mecânico
+Larissa Porto,3.096.75,2020,Técnico de Manutenção
+Juan Mendes,4.481.77,2021,Analista de Qualidade
+Juliana Peixoto,5.901.73,2022,Supervisor de Linha de Montagem
+Gabrielly Pereira,4.596.91,2023,Analista de Qualidade
+João Lucas da Costa,5.929.04,2021,Supervisor de Linha de Montagem
+Lorena Campos,7.769.20,2021,Engenheiro Mecânico
+Bruno Carvalho,7.282.97,2020,Engenheiro Mecânico
+Ana Luiza Moura,2.900.72,2019,Técnico de Manutenção
+Matheus Caldeira,8.859.70,2020,Engenheiro Mecânico
+Maria Eduarda Melo,4.209.81,2022,Analista de Qualidade
+Ana Vitória Oliveira,9.474.49,2023,Engenheiro Mecânico
+Thiago Barros,5.689.57,2022,Supervisor de Linha de Montagem
+Noah Lima,5.593.60,2022,Supervisor de Linha de Montagem
+Murilo Santos,4.323.67,2020,Técnico de Manutenção
+Davi Lucas Rocha,4.370.92,2019,Supervisor de Linha de Montagem
+Calebe Monteiro,8.429.23,2022,Engenheiro Mecânico
+Isadora Correia,4.337.62,2019,Analista de Qualidade
+Murilo das Neves,3.596.31,2023,Analista de Qualidade
+Maria Eduarda Araújo,3.680.53,2021,Técnico de Manutenção
+Mirella Fogaça,2.799.16,2023,Técnico de Manutenção
+Diego Fogaça,2.520.68,2020,Operador de Produção
+Heloísa Monteiro,5.389.96,2019,Supervisor de Linha de Montagem
+Diego da Conceição,4.669.78,2021,Analista de Qualidade
+Mirella Nunes,4.209.86,2019,Supervisor de Linha de Montagem
+Vinicius Souza,4.019.02,2020,Analista de Qualidade
+João Miguel Peixoto,3.608.62,2019,Analista de Qualidade
+Heloísa da Cruz,9.530.13,2019,Engenheiro Mecânico
+Thiago Martins,2.657.16,2020,Técnico de Manutenção
+Maria Vitória Cardoso,2.534.20,2020,Operador de Produção
+Ana Beatriz Cardoso,9.806.20,2023,Engenheiro Mecânico
+Leonardo Pereira,5.792.44,2019,Supervisor de Linha de Montagem
+Maria Pires,6.207.89,2019,Engenheiro Mecânico
+Emanuelly da Rosa,2.902.80,2020,Operador de Produção
+Ana Sophia Monteiro,4.702.59,2021,Analista de Qualidade
+Ana Sophia Gomes,5.789.63,2022,Supervisor de Linha de Montagem
+Nicole Rodrigues,2.675.75,2021,Operador de Produção
+Natália Lima,6.656.00,2021,Engenheiro Mecânico
+Enzo Gabriel Novaes,1.590.53,2022,Operador de Produção
+Ana Carolina Almeida,3.458.56,2021,Técnico de Manutenção
+Heitor da Rosa,1.993.53,2022,Operador de Produção
+Vitor Hugo Fernandes,2.864.24,2023,Técnico de Manutenção
+Igor Costa,4.323.35,2020,Supervisor de Linha de Montagem
+Luiz Felipe Pinto,4.456.91,2019,Supervisor de Linha de Montagem
+Cauê Nascimento,5.300.65,2020,Supervisor de Linha de Montagem
+Rafaela Dias,5.360.46,2023,Supervisor de Linha de Montagem
+Maria Eduarda Moraes,9.361.81,2019,Engenheiro Mecânico
+João Vitor Barbosa,3.954.34,2023,Técnico de Manutenção
+Alexia Ramos,4.443.15,2022,Analista de Qualidade
+Ian Pereira,4.651.59,2022,Analista de Qualidade
+Carlos Eduardo Nunes,3.544.09,2020,Analista de Qualidade
+Igor da Cunha,4.810.13,2020,Analista de Qualidade
+Laís Moreira,4.132.58,2020,Analista de Qualidade
+Leandro Cavalcanti,5.184.70,2023,Supervisor de Linha de Montagem
+Leandro Nunes,4.075.77,2020,Analista de Qualidade
+Ana Júlia Novaes,3.966.23,2021,Técnico de Manutenção
+Vinicius Mendes,2.573.74,2020,Operador de Produção
+Isaac da Cunha,4.059.27,2020,Analista de Qualidade
+Luiz Gustavo Correia,4.208.77,2023,Técnico de Manutenção
+Maitê da Mota,6.988.92,2022,Engenheiro Mecânico
+Thomas da Conceição,3.390.61,2019,Técnico de Manutenção
+Calebe da Conceição,4.389.43,2019,Analista de Qualidade
+Eduardo da Luz,4.624.30,2022,Supervisor de Linha de Montagem
+Brenda Cardoso,2.786.98,2023,Operador de Produção
+Vitor Sales,9.093.89,2022,Engenheiro Mecânico
+Sophia Porto,2.974.06,2021,Técnico de Manutenção
+Maria Fernanda Martins,1.610.25,2020,Operador de Produção
+Gabrielly da Costa,3.174.01,2019,Técnico de Manutenção
+Ana Clara Ribeiro,7.797.74,2021,Engenheiro Mecânico
+Marina Jesus,4.560.17,2022,Analista de Qualidade
+Nicolas Caldeira,3.555.01,2023,Analista de Qualidade
+Henrique Rezende,3.567.02,2019,Técnico de Manutenção
+Alícia Caldeira,8.821.54,2022,Engenheiro Mecânico
+Breno Carvalho,4.309.86,2022,Analista de Qualidade
+Maria Vitória Santos,2.980.04,2019,Operador de Produção
+Letícia Vieira,4.373.21,2023,Técnico de Manutenção
+Lavínia da Mota,6.488.44,2023,Engenheiro Mecânico
+Luiz Fernando da Costa,2.677.11,2019,Técnico de Manutenção
+Levi Cavalcanti,8.338.68,2022,Engenheiro Mecânico
+Luiz Fernando da Luz,2.096.07,2020,Operador de Produção
+Felipe Pires,4.009.88,2020,Supervisor de Linha de Montagem
+Marcela Silveira,8.556.48,2019,Engenheiro Mecânico
+Bruna Moreira,4.977.69,2022,Supervisor de Linha de Montagem
+João Pedro Oliveira,3.688.61,2023,Analista de Qualidade
+Pedro Lucas Melo,4.557.02,2020,Analista de Qualidade
+Isaac Castro,4.510.15,2020,Analista de Qualidade
+Nicole Nogueira,2.687.80,2023,Técnico de Manutenção
+Fernando da Costa,4.426.69,2020,Técnico de Manutenção
+Nathan da Conceição,9.352.46,2020,Engenheiro Mecânico
+Pietro Novaes,5.366.50,2020,Supervisor de Linha de Montagem
+Noah Cardoso,2.426.77,2019,Operador de Produção
+Matheus Nascimento,3.669.66,2019,Analista de Qualidade
+Vitória Melo,4.514.77,2021,Analista de Qualidade
+Raul Souza,3.833.94,2019,Técnico de Manutenção
+Isabelly Aragão,2.407.43,2019,Operador de Produção
+Diego da Rosa,7.627.63,2023,Engenheiro Mecânico
+Diogo das Neves,6.361.93,2019,Engenheiro Mecânico
+Davi Lucas Cardoso,5.757.03,2023,Supervisor de Linha de Montagem
+Yuri Castro,4.501.39,2020,Analista de Qualidade
+Stella Viana,2.816.84,2021,Operador de Produção
+Alícia Mendes,4.135.67,2019,Técnico de Manutenção
+Ana Nascimento,3.149.17,2022,Técnico de Manutenção
+Davi Lucca da Mata,2.094.26,2023,Operador de Produção
+Bárbara Pires,4.777.12,2019,Supervisor de Linha de Montagem
+Juan Moreira,6.950.18,2019,Engenheiro Mecânico
+Rebeca Duarte,4.454.54,2020,Supervisor de Linha de Montagem
+Mariana Gomes,5.206.90,2020,Supervisor de Linha de Montagem
+Daniela Teixeira,2.195.24,2021,Operador de Produção
+Henrique Ribeiro,4.226.67,2020,Técnico de Manutenção
+João Lucas Pires,3.538.46,2020,Analista de Qualidade
+Stella Gomes,7.520.78,2020,Engenheiro Mecânico
+Lívia Souza,2.992.14,2022,Técnico de Manutenção
+Bruna da Paz,5.529.77,2020,Supervisor de Linha de Montagem
+Beatriz Fernandes,4.933.29,2023,Analista de Qualidade
+Pedro Rocha,2.891.56,2023,Técnico de Manutenção
+Theo Silveira,4.931.99,2022,Analista de Qualidade
+Gustavo Henrique Cardoso,4.760.15,2022,Supervisor de Linha de Montagem
+Gabriel Porto,3.458.37,2021,Técnico de Manutenção
+Bianca Pinto,1.749.50,2022,Operador de Produção
+Enzo Gabriel Porto,3.069.75,2021,Técnico de Manutenção
+Kaique Barros,4.106.05,2021,Técnico de Manutenção
+Lívia Moura,2.415.50,2020,Operador de Produção
+João Pedro Cardoso,1.908.94,2022,Operador de Produção
+Antônio Lopes,1.682.83,2021,Operador de Produção
+Theo Melo,3.772.16,2023,Analista de Qualidade
+Daniel Azevedo,8.269.25,2020,Engenheiro Mecânico
+Lucas Cunha,4.136.79,2019,Analista de Qualidade
+Lavínia Almeida,3.565.12,2020,Analista de Qualidade
+Anthony Fernandes,4.005.17,2023,Supervisor de Linha de Montagem
+Davi Lucas Vieira,3.842.12,2019,Analista de Qualidade
+Marcela Pereira,1.762.16,2019,Operador de Produção
+Yago Gomes,4.311.78,2019,Técnico de Manutenção
+Heitor Costa,1.883.47,2022,Operador de Produção
+Erick Peixoto,2.597.94,2022,Operador de Produção
+Vitória Ramos,4.507.14,2019,Analista de Qualidade
+Carlos Eduardo Sales,2.649.98,2020,Operador de Produção
+Maria Alice Aragão,7.695.78,2023,Engenheiro Mecânico
+Maitê Duarte,8.947.49,2020,Engenheiro Mecânico
+Evelyn Pereira,6.866.96,2019,Engenheiro Mecânico
+Paulo Moraes,3.783.94,2022,Técnico de Manutenção
+Murilo Peixoto,4.463.89,2023,Supervisor de Linha de Montagem
+Raul Cardoso,2.616.91,2019,Técnico de Manutenção
+Isabelly Campos,1.911.81,2023,Operador de Produção
+Maria Cecília Santos,2.106.48,2023,Operador de Produção
+Maria Clara Aragão,8.769.74,2022,Engenheiro Mecânico
+Lorena Barbosa,5.206.44,2020,Supervisor de Linha de Montagem
+Joana Moura,2.658.84,2023,Técnico de Manutenção
+Vinicius Aragão,8.383.00,2019,Engenheiro Mecânico
+João Felipe Duarte,6.906.63,2019,Engenheiro Mecânico
+Marina Cavalcanti,4.163.61,2022,Analista de Qualidade
+Sarah Melo,2.504.40,2022,Operador de Produção
+Augusto Moraes,5.280.34,2020,Supervisor de Linha de Montagem
+Heloísa da Luz,5.065.92,2023,Supervisor de Linha de Montagem
+Letícia Rocha,1.999.50,2020,Operador de Produção
+Carolina Cunha,4.492.76,2019,Analista de Qualidade
+Theo Ramos,5.461.30,2022,Supervisor de Linha de Montagem
+Gustavo da Paz,3.633.15,2023,Analista de Qualidade
+Eduardo Barbosa,3.769.92,2019,Técnico de Manutenção
+Luiz Gustavo Novaes,1.645.01,2019,Operador de Produção
+Lorena Fernandes,4.021.36,2022,Analista de Qualidade
+Vitor Gabriel da Mota,4.212.33,2023,Analista de Qualidade
+João Gabriel Barros,4.961.25,2023,Analista de Qualidade
+Helena Fogaça,4.890.50,2022,Analista de Qualidade
+João Lucas Pinto,9.368.13,2023,Engenheiro Mecânico
+Sofia Pires,4.435.38,2020,Analista de Qualidade
+Heloísa da Mata,8.433.95,2022,Engenheiro Mecânico
+Olivia Sales,4.563.12,2022,Analista de Qualidade
+Bruno Pereira,6.909.43,2023,Engenheiro Mecânico
+Leandro da Mata,2.071.36,2020,Operador de Produção
+Evelyn Martins,4.478.11,2019,Supervisor de Linha de Montagem
+Evelyn Lima,4.810.00,2021,Analista de Qualidade
+Ryan Pires,3.282.09,2022,Técnico de Manutenção
+Larissa Freitas,3.261.25,2020,Técnico de Manutenção
+Vitória Caldeira,5.580.06,2022,Supervisor de Linha de Montagem
+Raul Nunes,7.290.11,2021,Engenheiro Mecânico
+Antônio da Conceição,1.730.69,2021,Operador de Produção
+Nicole Pires,2.935.98,2020,Operador de Produção
+Cauê Campos,2.733.72,2019,Operador de Produção
+Yago Moreira,4.224.03,2022,Técnico de Manutenção
+Miguel Azevedo,8.425.01,2023,Engenheiro Mecânico
+Brenda Porto,4.253.85,2019,Analista de Qualidade
+Beatriz Souza,2.551.62,2019,Técnico de Manutenção
+Ian Freitas,3.619.95,2022,Analista de Qualidade
+Carlos Eduardo Araújo,3.967.72,2022,Analista de Qualidade
+Luna Silveira,1.916.63,2023,Operador de Produção
+Maria Eduarda Costa,5.239.18,2022,Supervisor de Linha de Montagem
+Yago Ferreira,4.772.92,2023,Supervisor de Linha de Montagem
+Clara Gomes,4.383.56,2019,Supervisor de Linha de Montagem
+Catarina Costa,2.226.90,2020,Operador de Produção
+Breno Porto,3.739.00,2019,Técnico de Manutenção
+Theo Pires,4.341.33,2023,Supervisor de Linha de Montagem
+Rodrigo Lopes,9.130.78,2021,Engenheiro Mecânico
+Isabel Campos,4.427.08,2022,Analista de Qualidade
+Maria Cecília Gonçalves,6.930.58,2022,Engenheiro Mecânico
+Cauã da Paz,4.772.02,2020,Analista de Qualidade
+Erick Sales,4.273.21,2023,Técnico de Manutenção
+João Guilherme Vieira,4.735.52,2022,Supervisor de Linha de Montagem
+Isadora Rezende,3.274.16,2023,Técnico de Manutenção
+Ana Carvalho,1.700.71,2023,Operador de Produção
+Henrique Novaes,4.020.58,2020,Técnico de Manutenção
+Luana Souza,2.930.40,2023,Técnico de Manutenção
+Stella Oliveira,1.861.80,2023,Operador de Produção
+Ana Julia Costela,4.103.07,2023,Técnico de Manutenção
+Levi Rezende,4.057.11,2019,Analista de Qualidade
+Manuela Monteiro,4.469.14,2023,Analista de Qualidade
+Yago Vieira,3.899.03,2023,Analista de Qualidade
+Maria Sophia da Mata,1.690.80,2020,Operador de Produção
+Leandro Santos,3.865.22,2020,Analista de Qualidade
+Cauã Silveira,4.751.78,2022,Supervisor de Linha de Montagem
+Heitor da Cunha,3.418.89,2023,Técnico de Manutenção
+Igor das Neves,2.838.13,2019,Operador de Produção
+Bruno Fernandes,8.634.77,2019,Engenheiro Mecânico
+Pedro Miguel Vieira,9.235.53,2023,Engenheiro Mecânico
+Cauê Jesus,9.363.49,2020,Engenheiro Mecânico
+Maria Alice Carvalho,4.671.76,2022,Analista de Qualidade
+Melissa da Cunha,4.990.90,2021,Supervisor de Linha de Montagem
+Maria Luiza da Costa,8.455.73,2022,Engenheiro Mecânico
+Rafael Mendes,2.800.34,2022,Técnico de Manutenção
+Amanda Araújo,7.773.09,2023,Engenheiro Mecânico
+Augusto Ferreira,8.984.83,2019,Engenheiro Mecânico
+Cecília Peixoto,4.104.26,2021,Técnico de Manutenção
+Maysa Araújo,9.826.01,2023,Engenheiro Mecânico
+Marina Viana,2.192.92,2022,Operador de Produção
+Pedro Jesus,5.941.50,2021,Supervisor de Linha de Montagem
+Elisa Nunes,4.370.39,2021,Supervisor de Linha de Montagem
+Lorenzo Cardoso,1.647.59,2020,Operador de Produção
+Bruna Pires,4.848.35,2019,Analista de Qualidade
+Luana Rezende,7.527.76,2020,Engenheiro Mecânico
+Joaquim da Conceição,4.242.77,2022,Supervisor de Linha de Montagem
+Thomas Monteiro,8.575.62,2020,Engenheiro Mecânico
+Ana Moura,1.983.32,2022,Operador de Produção
+Maria Eduarda Cavalcanti,4.211.50,2020,Analista de Qualidade
+Lucas Gabriel Costa,3.664.85,2022,Técnico de Manutenção
+Levi Farias,1.692.14,2019,Operador de Produção
+Caio Barros,1.836.92,2019,Operador de Produção
+João Pedro Peixoto,5.100.18,2020,Supervisor de Linha de Montagem
+Davi Lucca Martins,6.654.74,2022,Engenheiro Mecânico
+Rebeca Lopes,3.682.25,2021,Analista de Qualidade
+Vitor Hugo da Cruz,8.583.24,2021,Engenheiro Mecânico
+Maitê Rezende,2.723.92,2019,Operador de Produção
+Gabriela Sales,4.878.39,2020,Analista de Qualidade
+Bryan Novaes,4.010.08,2023,Técnico de Manutenção
+Laís Duarte,3.580.79,2021,Analista de Qualidade
+Nathan Moraes,9.749.55,2023,Engenheiro Mecânico
+Benjamin Gomes,2.829.63,2023,Técnico de Manutenção
+Maria Vitória Ribeiro,3.951.96,2021,Técnico de Manutenção
+Luiz Otávio Alves,1.820.27,2021,Operador de Produção
+Leandro Cunha,4.599.20,2021,Analista de Qualidade
+Thomas Moreira,3.680.70,2021,Técnico de Manutenção
+Isabelly Barbosa,4.303.14,2022,Supervisor de Linha de Montagem
+Ana Beatriz da Mota,9.044.49,2020,Engenheiro Mecânico
+Breno Nogueira,1.514.00,2019,Operador de Produção
+Lavínia Vieira,4.589.69,2019,Analista de Qualidade
+Pedro Henrique Costa,3.648.77,2020,Analista de Qualidade
+Caio Novaes,1.806.05,2020,Operador de Produção
+Matheus Moreira,3.966.14,2021,Técnico de Manutenção
+Eduardo Silva,5.375.77,2023,Supervisor de Linha de Montagem
+Lívia Barbosa,8.216.91,2020,Engenheiro Mecânico
+Arthur Cunha,2.759.95,2022,Operador de Produção
+Yasmin Ribeiro,6.044.13,2019,Engenheiro Mecânico
+Davi Lucca Novaes,2.749.43,2023,Técnico de Manutenção
+Sarah Jesus,4.583.11,2021,Analista de Qualidade
+Heloísa Santos,2.087.29,2023,Operador de Produção
+Maria Alice Rodrigues,2.558.14,2022,Técnico de Manutenção
+Fernanda Ribeiro,4.691.30,2022,Analista de Qualidade
+João Lucas Melo,8.352.81,2022,Engenheiro Mecânico
+Ana Sophia Peixoto,3.784.65,2023,Técnico de Manutenção
+Gabriela Araújo,2.342.23,2022,Operador de Produção
+Lorena Ferreira,2.399.05,2021,Operador de Produção
+Valentina Dias,4.737.57,2019,Analista de Qualidade
+Maria Luiza Rocha,4.117.10,2023,Supervisor de Linha de Montagem
+Luiz Miguel Nascimento,4.677.35,2023,Analista de Qualidade
+Murilo Correia,3.683.57,2019,Analista de Qualidade
+Anthony Pires,6.354.40,2022,Engenheiro Mecânico
+Davi Lucas Oliveira,8.392.90,2021,Engenheiro Mecânico
+Júlia Santos,5.467.23,2023,Supervisor de Linha de Montagem
+Lorena Caldeira,7.684.99,2022,Engenheiro Mecânico
+Manuela da Rocha,4.678.48,2021,Analista de Qualidade
+Giovanna Rocha,4.075.75,2019,Analista de Qualidade
+Isis Lopes,2.381.65,2019,Operador de Produção
+Lorenzo Teixeira,4.043.35,2020,Analista de Qualidade
+Renan Ferreira,4.052.39,2019,Supervisor de Linha de Montagem
+Luana da Mota,3.895.34,2021,Técnico de Manutenção
+Guilherme Jesus,4.065.16,2021,Técnico de Manutenção
+Heitor Gomes,2.779.09,2020,Operador de Produção
+Olivia Rodrigues,4.753.83,2023,Supervisor de Linha de Montagem
+João Felipe Freitas,4.703.96,2020,Analista de Qualidade
+Cauã Viana,3.912.04,2020,Técnico de Manutenção
+Julia Monteiro,3.574.76,2020,Analista de Qualidade
+Gustavo Barbosa,4.873.70,2019,Supervisor de Linha de Montagem
+Theo Cardoso,4.648.27,2022,Analista de Qualidade
+Pietro Fernandes,3.703.03,2022,Analista de Qualidade
+Clara da Paz,9.826.46,2022,Engenheiro Mecânico
+Emanuelly Fogaça,1.923.28,2022,Operador de Produção
+Calebe Duarte,4.551.22,2020,Supervisor de Linha de Montagem
+Benjamin Souza,2.767.18,2022,Operador de Produção
+Pedro Miguel Dias,7.950.28,2021,Engenheiro Mecânico
+Caio Oliveira,4.429.55,2021,Analista de Qualidade
+Caio Cunha,7.383.68,2020,Engenheiro Mecânico
+Marcos Vinicius da Cruz,9.087.43,2020,Engenheiro Mecânico
+Milena Ribeiro,5.926.79,2023,Supervisor de Linha de Montagem
+Milena da Paz,2.741.80,2019,Operador de Produção
+Igor Gomes,4.462.59,2020,Técnico de Manutenção
+Ana Carolina Carvalho,3.808.35,2020,Técnico de Manutenção
+Maria Julia Dias,3.630.66,2021,Técnico de Manutenção
+Sarah Azevedo,5.944.01,2022,Supervisor de Linha de Montagem
+Kaique da Luz,6.732.06,2019,Engenheiro Mecânico
+João Vitor Sales,2.580.01,2020,Operador de Produção
+Vinicius Gonçalves,9.402.46,2019,Engenheiro Mecânico
+André Jesus,9.922.07,2023,Engenheiro Mecânico
+Maria Cavalcanti,2.105.97,2021,Operador de Produção
+Lorenzo Viana,9.166.80,2019,Engenheiro Mecânico
+Luna Cunha,8.451.60,2020,Engenheiro Mecânico
+Letícia Fogaça,7.714.52,2023,Engenheiro Mecânico
+Carlos Eduardo Melo,2.496.28,2019,Operador de Produção
+Thomas Ramos,1.646.34,2021,Operador de Produção
+Eloah da Mata,3.998.57,2022,Técnico de Manutenção
+Vicente Mendes,4.033.96,2021,Analista de Qualidade
+Miguel da Mota,5.572.56,2023,Supervisor de Linha de Montagem
+Paulo Nunes,4.317.27,2022,Analista de Qualidade
+Maitê Martins,4.279.08,2023,Analista de Qualidade
+João Castro,4.805.87,2021,Analista de Qualidade
+Daniel Rocha,3.402.48,2020,Técnico de Manutenção
+Alexandre Ferreira,4.658.02,2020,Analista de Qualidade
+Eduarda Porto,6.376.61,2021,Engenheiro Mecânico
+Isaac Jesus,4.308.05,2022,Analista de Qualidade
+Rebeca Alves,4.210.95,2022,Supervisor de Linha de Montagem
+Pietro Moreira,7.589.53,2021,Engenheiro Mecânico
+Ana Carolina Costa,4.882.14,2021,Supervisor de Linha de Montagem
+Gabriela da Cruz,4.284.99,2022,Analista de Qualidade
+Nina Santos,4.636.22,2023,Analista de Qualidade
+Olivia Costa,3.124.70,2019,Técnico de Manutenção
+Evelyn Moura,1.736.93,2022,Operador de Produção
+Clarice das Neves,3.749.05,2021,Analista de Qualidade
+Lucca da Costa,4.312.29,2020,Técnico de Manutenção
+Sofia Moura,5.967.04,2019,Supervisor de Linha de Montagem
+Pietra Vieira,3.803.02,2023,Analista de Qualidade
+Sophia Teixeira,4.730.57,2023,Analista de Qualidade
+Clara Farias,4.697.89,2021,Analista de Qualidade
+Sophia Cardoso,9.214.41,2019,Engenheiro Mecânico
+Lavínia Souza,4.468.22,2023,Técnico de Manutenção
+Ana Julia Correia,3.146.02,2022,Técnico de Manutenção
+Marcos Vinicius Santos,2.141.23,2021,Operador de Produção
+Murilo Teixeira,3.619.51,2019,Técnico de Manutenção
+Davi Luiz Martins,4.579.03,2020,Analista de Qualidade
+Laura Correia,1.619.11,2023,Operador de Produção
+Cecília Rodrigues,4.374.82,2023,Supervisor de Linha de Montagem
+Luiz Gustavo Porto,9.276.25,2020,Engenheiro Mecânico
+Lorenzo Costela,5.519.16,2019,Supervisor de Linha de Montagem
+Kamilly Ramos,5.802.59,2022,Supervisor de Linha de Montagem
+Ana Carolina Rezende,3.971.09,2020,Analista de Qualidade
+Gabriela Aragão,5.759.64,2020,Supervisor de Linha de Montagem
+Eloah Almeida,2.725.89,2020,Técnico de Manutenção
+Maria Luiza Cardoso,6.959.50,2022,Engenheiro Mecânico
+Kevin Monteiro,2.021.91,2020,Operador de Produção
+Maria Cecília Caldeira,2.420.67,2019,Operador de Produção
+Lucas Azevedo,4.112.39,2021,Técnico de Manutenção
+Juan da Mata,4.062.23,2023,Supervisor de Linha de Montagem
+Vitor Peixoto,1.987.66,2022,Operador de Produção
+Levi Nascimento,8.621.13,2019,Engenheiro Mecânico
+Ana Júlia Viana,5.388.30,2019,Supervisor de Linha de Montagem
+Pietro Monteiro,2.566.38,2023,Técnico de Manutenção
+Davi Teixeira,3.806.33,2022,Técnico de Manutenção
+Marcela Costela,3.849.14,2019,Analista de Qualidade
+Agatha Aragão,4.118.19,2020,Supervisor de Linha de Montagem
+Lucas Gabriel Viana,5.814.39,2021,Supervisor de Linha de Montagem
+Maria Alice Nascimento,5.120.88,2021,Supervisor de Linha de Montagem
+Felipe Ramos,2.170.58,2022,Operador de Produção
+Guilherme da Mota,3.593.30,2021,Técnico de Manutenção
+Alícia Peixoto,5.953.60,2021,Supervisor de Linha de Montagem
+Stella Aragão,3.527.00,2020,Analista de Qualidade
+Emanuel Campos,7.168.87,2021,Engenheiro Mecânico
+Noah Azevedo,5.507.92,2019,Supervisor de Linha de Montagem
+Maria Vitória Barros,3.527.01,2019,Analista de Qualidade
+Vicente Barbosa,5.256.48,2019,Supervisor de Linha de Montagem
+Laura Dias,4.452.63,2022,Analista de Qualidade
+Clara Caldeira,3.581.40,2019,Técnico de Manutenção
+Luiz Fernando Gonçalves,6.049.62,2022,Engenheiro Mecânico
+Thomas Lopes,9.298.14,2023,Engenheiro Mecânico
+Maria Vitória Martins,4.452.70,2019,Supervisor de Linha de Montagem
+Heitor da Conceição,3.596.74,2022,Analista de Qualidade
+Manuela das Neves,2.501.71,2019,Operador de Produção
+Fernanda Freitas,4.176.30,2022,Técnico de Manutenção
+Matheus da Luz,4.535.55,2020,Supervisor de Linha de Montagem
+Nicole Pereira,3.542.89,2023,Técnico de Manutenção
+Luna Barros,3.830.34,2022,Analista de Qualidade
+Yuri Souza,8.950.26,2019,Engenheiro Mecânico
+Juan da Costa,2.565.29,2021,Técnico de Manutenção
+João Miguel da Mata,6.258.75,2019,Engenheiro Mecânico
+Lorena Duarte,3.888.90,2022,Técnico de Manutenção
+Ana Carolina Oliveira,5.785.05,2023,Supervisor de Linha de Montagem
+Maria Eduarda Souza,3.762.62,2022,Técnico de Manutenção
+João Pedro Farias,8.810.54,2022,Engenheiro Mecânico
+Emanuel Melo,3.656.34,2022,Analista de Qualidade
+Ana Júlia Porto,4.441.53,2022,Técnico de Manutenção
+Luiz Otávio da Mota,1.907.35,2021,Operador de Produção
+Gabriel Nascimento,8.025.06,2019,Engenheiro Mecânico
+Maria Barbosa,2.042.78,2022,Operador de Produção
+Diogo da Rosa,2.861.07,2021,Operador de Produção
+Cecília Melo,4.204.46,2019,Analista de Qualidade
+André da Rosa,3.445.94,2021,Técnico de Manutenção
+Vicente Costa,4.894.94,2022,Supervisor de Linha de Montagem
+Elisa da Rocha,8.066.29,2019,Engenheiro Mecânico
+Eduarda Vieira,6.876.28,2021,Engenheiro Mecânico
+João Miguel Rezende,3.662.04,2020,Analista de Qualidade
+Milena Moraes,3.377.08,2020,Técnico de Manutenção
+Francisco Moreira,4.088.78,2019,Supervisor de Linha de Montagem
+Luna Rezende,9.266.73,2019,Engenheiro Mecânico
+Thiago Ribeiro,9.272.83,2023,Engenheiro Mecânico
+João Lucas Lopes,5.759.73,2019,Supervisor de Linha de Montagem
+Amanda das Neves,3.850.84,2021,Técnico de Manutenção
+Alexia Ferreira,4.262.98,2023,Supervisor de Linha de Montagem
+Maria Luiza Peixoto,7.559.49,2021,Engenheiro Mecânico
+Davi Lucas da Paz,4.823.39,2023,Analista de Qualidade
+João Miguel Farias,3.016.35,2023,Técnico de Manutenção
+Maria Clara Mendes,9.295.16,2022,Engenheiro Mecânico
+Vitor Hugo Rodrigues,2.582.09,2019,Operador de Produção
+Sarah Rodrigues,4.004.21,2023,Supervisor de Linha de Montagem
+Bárbara Moraes,8.415.18,2020,Engenheiro Mecânico
+Daniel Viana,1.671.73,2019,Operador de Produção
+Carolina Viana,4.053.58,2021,Analista de Qualidade
+Ana Carolina Souza,4.324.38,2019,Analista de Qualidade
+Breno Barros,7.616.96,2021,Engenheiro Mecânico
+Juan Cunha,9.766.90,2023,Engenheiro Mecânico
+Daniela Campos,8.585.80,2021,Engenheiro Mecânico
+Alana da Rosa,5.197.38,2020,Supervisor de Linha de Montagem
+Laís Moura,5.826.57,2019,Supervisor de Linha de Montagem
+Pedro Henrique Rocha,3.757.77,2021,Analista de Qualidade
+Luiza Aragão,4.304.91,2021,Técnico de Manutenção
+Luiz Otávio Vieira,1.517.56,2022,Operador de Produção
+Alana Aragão,4.897.71,2023,Supervisor de Linha de Montagem
+Rebeca Freitas,2.865.20,2019,Operador de Produção
+Esther Aragão,8.916.69,2019,Engenheiro Mecânico
+Pietra Pinto,4.081.09,2021,Analista de Qualidade
+Calebe Castro,2.105.85,2023,Operador de Produção
+Brenda Duarte,7.225.25,2020,Engenheiro Mecânico
+Pedro Henrique Souza,3.839.42,2021,Analista de Qualidade
+João Gabriel Fogaça,5.715.12,2019,Supervisor de Linha de Montagem
+Ana Júlia Moura,5.164.40,2020,Supervisor de Linha de Montagem
+Laís Farias,5.202.15,2022,Supervisor de Linha de Montagem
+Fernanda Cardoso,4.532.61,2020,Analista de Qualidade
+Milena Azevedo,4.145.79,2022,Analista de Qualidade
+João Nascimento,4.280.19,2019,Técnico de Manutenção
+Maria Clara Ribeiro,4.009.65,2020,Analista de Qualidade
+Pedro Miguel Alves,4.068.37,2021,Analista de Qualidade
+Ana Júlia Sales,4.771.75,2021,Supervisor de Linha de Montagem
+Melissa Melo,4.622.43,2023,Supervisor de Linha de Montagem
+Ana Luiza Souza,2.762.59,2022,Operador de Produção
+Enzo da Rosa,6.421.04,2019,Engenheiro Mecânico
+Lorena Fogaça,4.444.05,2021,Técnico de Manutenção
+Breno Freitas,5.928.03,2022,Supervisor de Linha de Montagem
+Maria Fernanda Azevedo,1.558.49,2021,Operador de Produção
+Ian Aragão,4.320.05,2020,Supervisor de Linha de Montagem
+Nicolas da Conceição,4.294.12,2023,Supervisor de Linha de Montagem
+Ana Julia Jesus,2.850.12,2023,Operador de Produção
+Miguel Duarte,4.411.84,2023,Técnico de Manutenção
+Joana Viana,5.776.81,2022,Supervisor de Linha de Montagem
+Vitor Gabriel Cunha,2.740.06,2019,Operador de Produção
+Ana Júlia Santos,3.076.81,2022,Técnico de Manutenção
+Ana Beatriz Castro,7.542.05,2022,Engenheiro Mecânico
+Daniela Cardoso,2.808.29,2019,Técnico de Manutenção
+Yago Martins,3.583.41,2023,Técnico de Manutenção
+Pedro Miguel Fogaça,5.677.10,2021,Supervisor de Linha de Montagem
+Luiza Dias,2.740.22,2023,Operador de Produção
+Maria Luiza Nascimento,3.852.56,2021,Analista de Qualidade
+Vitor Gonçalves,4.020.92,2022,Analista de Qualidade
+Gabriel da Costa,4.414.62,2023,Supervisor de Linha de Montagem
+Raquel da Costa,8.938.31,2020,Engenheiro Mecânico
+Gabrielly Moreira,9.170.09,2021,Engenheiro Mecânico
+Bryan Almeida,3.961.64,2022,Técnico de Manutenção
+Leonardo Moreira,3.451.09,2022,Técnico de Manutenção
+Calebe Costela,4.264.74,2021,Supervisor de Linha de Montagem
+Diego Pinto,3.698.24,2023,Técnico de Manutenção
+Maria Eduarda Silva,3.556.97,2021,Analista de Qualidade
+Ana Lívia Araújo,3.586.61,2022,Analista de Qualidade
+João Gabriel Vieira,9.508.36,2022,Engenheiro Mecânico
+Alana Gonçalves,4.225.11,2020,Analista de Qualidade
+Joana Cardoso,3.928.68,2019,Analista de Qualidade
+Elisa Silveira,5.022.55,2019,Supervisor de Linha de Montagem
+Rodrigo Nascimento,5.154.56,2021,Supervisor de Linha de Montagem
+Daniel Fogaça,4.461.48,2020,Técnico de Manutenção
+Gabriel Sales,4.741.28,2022,Analista de Qualidade
+Bernardo da Cunha,3.452.97,2019,Técnico de Manutenção
+Emilly Peixoto,3.504.75,2019,Analista de Qualidade
+Lucca Cardoso,7.193.74,2021,Engenheiro Mecânico
+Felipe Sales,4.896.64,2023,Supervisor de Linha de Montagem
+Mariana da Paz,4.352.77,2020,Técnico de Manutenção
+Ana Lívia Cunha,2.561.10,2021,Técnico de Manutenção
+Alexandre Novaes,1.701.65,2023,Operador de Produção
+Isaac Pires,4.706.66,2021,Analista de Qualidade
+Pietro Cunha,9.173.58,2021,Engenheiro Mecânico
+Igor da Paz,4.401.30,2020,Supervisor de Linha de Montagem
+Gabrielly da Luz,6.359.25,2021,Engenheiro Mecânico
+Gabrielly Gonçalves,7.367.13,2023,Engenheiro Mecânico
+Maysa Rodrigues,6.276.12,2023,Engenheiro Mecânico
+Valentina Farias,4.143.85,2019,Técnico de Manutenção
+Guilherme Novaes,9.383.69,2020,Engenheiro Mecânico
+Miguel da Paz,8.892.60,2022,Engenheiro Mecânico
+Maria Cecília da Mata,4.697.64,2021,Supervisor de Linha de Montagem
+Stella Vieira,4.365.56,2020,Analista de Qualidade
+Thomas Rezende,4.410.23,2021,Técnico de Manutenção
+Laura Gonçalves,1.615.29,2020,Operador de Produção
+Vitória Oliveira,1.863.35,2022,Operador de Produção
+Fernanda Duarte,4.795.10,2021,Analista de Qualidade
+Rafael da Costa,4.044.05,2023,Supervisor de Linha de Montagem
+Vitória Nascimento,8.195.92,2023,Engenheiro Mecânico
+Levi Rocha,3.706.99,2023,Técnico de Manutenção
+Juliana Teixeira,5.295.63,2019,Supervisor de Linha de Montagem
+Olivia Peixoto,2.378.80,2022,Operador de Produção
+Alícia Moreira,4.523.93,2020,Analista de Qualidade
+Vitor Farias,3.714.31,2020,Analista de Qualidade
+Natália Moraes,4.245.04,2020,Analista de Qualidade
+Pedro Barbosa,2.735.67,2021,Operador de Produção
+Melissa Nunes,8.994.58,2019,Engenheiro Mecânico
+Calebe Alves,8.044.52,2020,Engenheiro Mecânico
+Francisco das Neves,1.914.25,2019,Operador de Produção
+Sofia Silveira,2.200.45,2023,Operador de Produção
+Maria Luiza das Neves,4.611.36,2023,Analista de Qualidade
+Isadora Novaes,3.652.84,2019,Analista de Qualidade
+Lucas,,2020,Analista de Qualidade
