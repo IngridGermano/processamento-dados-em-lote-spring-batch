@@ -22,10 +22,10 @@ public class Funcionario {
 	@Column(name = "Salario")
 	private String salario;
 	@Column(name = "Ano_de_admissao")
-	private long ano;
+	private String ano;
 	@Column(name = "Funcao_do_Funcionario")
 	private String funcao;
-	public Funcionario(String id, String salario, long ano, String funcao) {
+	public Funcionario(String id, String salario, String ano, String funcao) {
 		super();
 		this.id = id;
 		this.salario = salario;
@@ -47,10 +47,10 @@ public class Funcionario {
 	public void setSalario(String salario) {
 		this.salario = salario;
 	}
-	public long getAno() {
+	public String getAno() {
 		return ano;
 	}
-	public void setAno(long ano) {
+	public void setAno(String ano) {
 		this.ano = ano;
 	}
 	public String getFuncao() {
